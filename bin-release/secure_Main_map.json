@@ -1,0 +1,260 @@
+{
+  "mapping": [
+    {
+      "originalName": "_employerAffordFertilityInsuranceRate",
+      "newName": "else"
+    },
+    {
+      "originalName": "SITE_DESC",
+      "newName": "null const"
+    },
+    {
+      "originalName": "_employerAffordMedicalRate",
+      "newName": "gsgcf23sdf#\""
+    },
+    {
+      "originalName": "VERSION_DESC",
+      "newName": "do const"
+    },
+    {
+      "originalName": "_employerAffordIndustrialInjuryInsurance",
+      "newName": "gsgcf23sdf@!"
+    },
+    {
+      "originalName": "_selfAffordMedical",
+      "newName": "set"
+    },
+    {
+      "originalName": "_finalSalary",
+      "newName": "class"
+    },
+    {
+      "originalName": "_selfAffordPension",
+      "newName": "catch"
+    },
+    {
+      "originalName": "JiuMiTaxCalculator",
+      "newName": "super const"
+    },
+    {
+      "originalName": "menuItem_click",
+      "newName": "gsgcf23sdf%"
+    },
+    {
+      "originalName": "commonCaculate",
+      "newName": "finally const"
+    },
+    {
+      "originalName": "initPanel",
+      "newName": "gsgcf23sdf]"
+    },
+    {
+      "originalName": "_calculator",
+      "newName": "false"
+    },
+    {
+      "originalName": "_taxRateArr",
+      "newName": "gsgcf23sdf7!"
+    },
+    {
+      "originalName": "_selfAffordEmploymentInsurance",
+      "newName": "gsgcf23sdf\""
+    },
+    {
+      "originalName": "_employerAffordReservedFund",
+      "newName": "package"
+    },
+    {
+      "originalName": "onCalculateHandler",
+      "newName": "gsgcf23sdf\u003c"
+    },
+    {
+      "originalName": "_selfAffordEmploymentInsuranceRate",
+      "newName": "if const"
+    },
+    {
+      "originalName": "_rapidDeductionArr",
+      "newName": "gsgcf23sdf\"\""
+    },
+    {
+      "originalName": "SITE_URL",
+      "newName": "gsgcf23sdf;!"
+    },
+    {
+      "originalName": "CEILING_NUMBER",
+      "newName": "gsgcf23sdf \""
+    },
+    {
+      "originalName": "BOTTOM_NUMBER",
+      "newName": "gsgcf23sdf^"
+    },
+    {
+      "originalName": "initTfs",
+      "newName": "for"
+    },
+    {
+      "originalName": "_selfAffordPensionRate",
+      "newName": "gsgcf23sdf6!"
+    },
+    {
+      "originalName": "initContextMenu",
+      "newName": "gsgcf23sdf\"!"
+    },
+    {
+      "originalName": "_salaryTocalculateTax",
+      "newName": "gsgcf23sdf4"
+    },
+    {
+      "originalName": "_employerAffordMedical",
+      "newName": "break const"
+    },
+    {
+      "originalName": "_employerAffordEmploymentInsurance",
+      "newName": "do"
+    },
+    {
+      "originalName": "_employerAffordFertilityInsurance",
+      "newName": "gsgcf23sdf`"
+    },
+    {
+      "originalName": "_employerAffordPension",
+      "newName": "gsgcf23sdf2"
+    },
+    {
+      "originalName": "_selfAffordInsurance",
+      "newName": "gsgcf23sdf?"
+    },
+    {
+      "originalName": "_tax",
+      "newName": "override"
+    },
+    {
+      "originalName": "_employerAffordIndustrialInjuryInsuranceRate",
+      "newName": "case"
+    },
+    {
+      "originalName": "initButtons",
+      "newName": "finally"
+    },
+    {
+      "originalName": "_employerAffordReservedFundRate",
+      "newName": "true"
+    },
+    {
+      "originalName": "_insuranceBase",
+      "newName": "gsgcf23sdf0"
+    },
+    {
+      "originalName": "_employerAffordPensionRate",
+      "newName": "gsgcf23sdf!"
+    },
+    {
+      "originalName": "_totalPayByEmployer",
+      "newName": "throw"
+    },
+    {
+      "originalName": "onCloseAlertPanel",
+      "newName": "import const"
+    },
+    {
+      "originalName": "onReverseCalculateHandler",
+      "newName": "gsgcf23sdf%!"
+    },
+    {
+      "originalName": "versionMenu",
+      "newName": "in"
+    },
+    {
+      "originalName": "onResetHandler",
+      "newName": "static"
+    },
+    {
+      "originalName": "_employerAffordInsurance",
+      "newName": "gsgcf23sdf0!"
+    },
+    {
+      "originalName": "calculateSalaryStage1",
+      "newName": "gsgcf23sdf5"
+    },
+    {
+      "originalName": "_selfAffordReservedFundRate",
+      "newName": "var"
+    },
+    {
+      "originalName": "_alertPanel1",
+      "newName": "gsgcf23sdf;"
+    },
+    {
+      "originalName": "calculateSalaryStage3",
+      "newName": "gsgcf23sdf8!"
+    },
+    {
+      "originalName": "calculateSalaryStage2",
+      "newName": "gsgcf23sdf6"
+    },
+    {
+      "originalName": "_selfAffordMedicalRate",
+      "newName": "gsgcf23sdf]!"
+    },
+    {
+      "originalName": "_reservedFundBase",
+      "newName": "get"
+    },
+    {
+      "originalName": "calculateTax1",
+      "newName": "while"
+    },
+    {
+      "originalName": "calculateTax2",
+      "newName": "while const"
+    },
+    {
+      "originalName": "menu",
+      "newName": "switch const"
+    },
+    {
+      "originalName": "_ceilingNumber",
+      "newName": "gsgcf23sdf !"
+    },
+    {
+      "originalName": "_selfAffordReservedFund",
+      "newName": "package const"
+    },
+    {
+      "originalName": "_taxExemptionThreshold",
+      "newName": "gsgcf23sdf\u003c!"
+    },
+    {
+      "originalName": "_originSalary",
+      "newName": "gsgcf23sdf`!"
+    },
+    {
+      "originalName": "commonGetValues",
+      "newName": "import"
+    },
+    {
+      "originalName": "onSalaryTooLowAlert",
+      "newName": "function"
+    },
+    {
+      "originalName": "onAddedToStageHandler",
+      "newName": "default"
+    },
+    {
+      "originalName": "formatStr1",
+      "newName": "gsgcf23sdf!!"
+    },
+    {
+      "originalName": "Main",
+      "newName": "native"
+    },
+    {
+      "originalName": "siteMenu",
+      "newName": "each"
+    },
+    {
+      "originalName": "_employerAffordEmploymentInsuranceRate",
+      "newName": "gsgcf23sdf9!"
+    }
+  ]
+}
